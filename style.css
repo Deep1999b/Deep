@@ -11,7 +11,7 @@ canvas#stars {
 }
 
 /* Glowing Name */
-.Name_Top {
+.Name_Main {
   font-size: 180px;
   color: #fff;
   text-align: center;
@@ -39,4 +39,5 @@ canvas#stars {
                  0 0 80px #ff4da6;
   }
 }
+
 
